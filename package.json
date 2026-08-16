@@ -45,7 +45,7 @@
     "@xterm/headless": "^5.5.0",
     "@xterm/xterm": "^5.5.0",
     "commander": "^11.1.0",
-    "hono": "^3.12.12",
+    "hono": "^4.12.34",
     "node-pty": "^1.0.0",
     "ws": "^8.18.0"
   }
